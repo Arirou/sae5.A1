@@ -1,3 +1,3 @@
-package View;
+package Controller;
 
 public class Accueil { }
